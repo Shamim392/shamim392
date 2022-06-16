@@ -17,6 +17,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=badge&logo=mongodb&logoColor=white)
+
 
 #### Git Stats
 
