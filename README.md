@@ -21,9 +21,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 
-#### Git Stats
+### 📈 Git Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamim392&theme=tokyonight&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamim392&show_icons=true&theme=tokyonight)
 
+### 📈 Git Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamim392&layout=compact&langs_count=20&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shamim392&show_icons=true&theme=blue-green)
