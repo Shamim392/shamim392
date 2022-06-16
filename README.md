@@ -6,3 +6,5 @@
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...Email, Facebook
 - ⚡ Fun fact: ...I love to play cricket and football.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamim392 &theme=radical)
