@@ -8,8 +8,6 @@
 - ⚡ Fun fact: ...I love to play cricket and football.
 
 #### Git Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamim392&theme=radical)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=shamim392&theme=tokyonight)
-![github stats](https://github-readme-stats.vercel.app/api?username=shamim392&count_private=true&theme=tokyonight&hide=contribs,prs)
 
