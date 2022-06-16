@@ -7,14 +7,14 @@
 - 📫 How to reach me: ...shaminur702@gmail.com
 - ⚡ Fun fact: ...I love to play cricket and football.
 
-### 🤝 Connect with me:
+### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shaminur-rahaman-shamim/)
 
 
 <br />
 
-### 🔧 Technologies and Tools:
+### Technologies and Tools:
 ![C](https://img.shields.io/badge/C-00599C?style=badge&logo=c&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
