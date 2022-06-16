@@ -10,4 +10,6 @@
 #### Git Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamim392&theme=radical)
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=shamim392&count_private=true&theme=tokyonight&hide=contribs,prs)
+![github stats](https://github-readme-stats.vercel.app/api?username=shamim392&theme=tokyonight&hide=contribs,prs)
+![github stats](https://github-readme-stats.vercel.app/api?username=shamim392&count_private=true&theme=tokyonight&hide=contribs,prs)
+
