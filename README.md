@@ -9,6 +9,7 @@
 
 ### 🤝 Connect with me:
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][(https://www.linkedin.com/in/shaminur-rahaman-shamim/)]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shaminur-rahaman-shamim/)
 
 
 <br />
