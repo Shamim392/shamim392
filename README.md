@@ -13,5 +13,5 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=shamim392&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamim392&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamim392&show_icons=true&theme=tokyonight)
 
