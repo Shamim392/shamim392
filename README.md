@@ -9,7 +9,7 @@
 
 #### Git Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamim392&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamim392&theme=tokyonight&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamim392&theme=tokyonight)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=shamim392&theme=tokyonight)
